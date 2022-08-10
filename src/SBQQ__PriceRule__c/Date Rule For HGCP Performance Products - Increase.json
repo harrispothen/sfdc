@@ -1,0 +1,28 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__PriceRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__PriceRule__c/a4R55000000pI3gEAE"
+  },
+  "Id" : "a4R55000000pI3gEAE",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Date Rule For HGCP Performance Products - Increase",
+  "CreatedDate" : "2021-02-05T15:08:22.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-07-29T17:18:55.000+0000",
+  "LastModifiedById" : "00531000007ZME4AAO",
+  "SystemModstamp" : "2022-07-29T17:18:55.000+0000",
+  "LastViewedDate" : "2022-08-10T19:38:01.000+0000",
+  "LastReferencedDate" : "2022-08-10T19:38:01.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "(1 AND 2 AND 7 AND (3 AND 4)) OR (8 AND 9 AND 14 AND (10 AND 11)) OR (15 AND 16 AND 21 AND (17 AND 18)) OR (22 AND 23 AND 24 AND 25 AND 26) OR (27 AND 28 AND 29 AND 30 AND 31)",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__EvaluationEvent__c" : "On Calculate",
+  "SBQQ__EvaluationOrder__c" : 5,
+  "SBQQ__TargetObject__c" : "Calculator",
+  "External_ID__c" : "008852c7420525604c7c587ef62c6db8",
+  "description__c" : "Existing HGCP performance product that is canceled and replaced by like CPQ product in which the budget is increased.",
+  "CPQ_Condition_Description__c" : "HGCP performance product Social, Display, Search, Mobile Boost canceled and replaced by CPQ Social, Display, Search Mobile Boost comparing old budget to new budget",
+  "CPQ_Output_Description__c" : "Set the GLD Instruction field as Quote Submit",
+  "CPQ_Category__c" : "Amendment - Product"
+}
