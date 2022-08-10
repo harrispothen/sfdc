@@ -1,0 +1,19 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductFeature__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductFeature__c/a4a55000000TbQjAAK"
+  },
+  "Id" : "a4a55000000TbQjAAK",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Foundation",
+  "CreatedDate" : "2021-10-19T12:43:15.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-07-12T11:48:53.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-07-12T11:48:53.000+0000",
+  "SBQQ__ConfiguredSKU__c" : "01t55000004W7w8AAC",
+  "SBQQ__MinOptionCount__c" : 0,
+  "SBQQ__Number__c" : 10,
+  "External_ID__c" : "9d0062f64e86392beef03bc5d3e06ffc"
+}
