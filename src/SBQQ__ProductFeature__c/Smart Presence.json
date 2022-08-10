@@ -1,0 +1,19 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductFeature__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductFeature__c/a4a55000000TbQuAAK"
+  },
+  "Id" : "a4a55000000TbQuAAK",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Smart Presence",
+  "CreatedDate" : "2021-10-19T12:43:15.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-07-12T11:48:53.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-07-12T11:48:53.000+0000",
+  "SBQQ__ConfiguredSKU__c" : "01t55000004W7vwAAC",
+  "SBQQ__MinOptionCount__c" : 0,
+  "SBQQ__Number__c" : 20,
+  "External_ID__c" : "72dc25018f79cc3dc23a0d4d0266ef13"
+}
