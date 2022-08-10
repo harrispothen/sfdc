@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__PriceCondition__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__PriceCondition__c/a4Q55000000YafGEAS"
+  },
+  "Id" : "a4Q55000000YafGEAS",
+  "IsDeleted" : false,
+  "Name" : "2299",
+  "CreatedDate" : "2021-12-09T20:30:20.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-07-29T17:18:53.000+0000",
+  "LastModifiedById" : "00531000007ZME4AAO",
+  "SystemModstamp" : "2022-07-29T17:18:53.000+0000",
+  "SBQQ__Rule__c" : "a4R55000000pI3TEAU",
+  "SBQQ__FilterType__c" : "Value",
+  "SBQQ__Index__c" : 7,
+  "SBQQ__Object__c" : "Quote Line",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__ParentRuleIsActive__c" : true,
+  "SBQQ__RuleTargetsCalculator__c" : true,
+  "SBQQ__TestedFormula__c" : "IF (CPQ_Product_Code__c = \"LOC-RANKING-01\", IF (ISBLANK(SBQQ__UpgradedSubscription__c),0,IF (CPQ_Original_Budget_Amount__c < CPQ_Budget__c, IF (Latest_Go_Live_Date__c <= Today (),1,0),0)),0)",
+  "SBQQ__Value__c" : "1",
+  "External_ID__c" : "40c9b0ec3e516e485cae13945fa42fcb"
+}
