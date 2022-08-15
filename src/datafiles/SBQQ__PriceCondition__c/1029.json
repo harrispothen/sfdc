@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__PriceCondition__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__PriceCondition__c/a4Qf0000000OtfQEAS"
+  },
+  "Id" : "a4Qf0000000OtfQEAS",
+  "IsDeleted" : false,
+  "Name" : "1029",
+  "CreatedDate" : "2020-07-08T12:57:56.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:09.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:09.000+0000",
+  "SBQQ__Rule__c" : "a4R5A0000009qe1UAA",
+  "SBQQ__FilterType__c" : "Value",
+  "SBQQ__Index__c" : 9.0,
+  "SBQQ__Object__c" : "Quote Line",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__ParentRuleIsActive__c" : true,
+  "SBQQ__RuleTargetsCalculator__c" : true,
+  "SBQQ__TestedVariable__c" : "a4u5A000000iOPJQA2",
+  "SBQQ__Value__c" : "0",
+  "External_ID__c" : "27729ba05df3145b89780af801b57f82"
+}
