@@ -1,0 +1,20 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__RelatedContent__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__RelatedContent__c/a4mf0000000NIZzAAO"
+  },
+  "Id" : "a4mf0000000NIZzAAO",
+  "OwnerId" : "005i0000004afvgAAA",
+  "IsDeleted" : false,
+  "Name" : "ConsultantChecklist_Final-reduced.pdf",
+  "CreatedDate" : "2020-07-09T17:50:55.000+0000",
+  "CreatedById" : "005i0000004afvgAAA",
+  "LastModifiedDate" : "2020-07-09T17:50:55.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2020-07-09T17:50:55.000+0000",
+  "SBQQ__DisplayOrder__c" : 10.0,
+  "SBQQ__DocumentName__c" : "<a href=\"/servlet/servlet.FileDownload?file=00Pf0000004f7daEAA\" target=\"_blank\">View Document in New Window</a>",
+  "SBQQ__ExternalId__c" : "00Pf0000004f7daEAA",
+  "SBQQ__Required__c" : false,
+  "SBQQ__TemplateSection__c" : "a4x5A000000awNAQAY"
+}
