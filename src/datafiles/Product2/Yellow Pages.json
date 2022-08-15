@@ -1,17 +1,17 @@
 {
   "attributes" : {
     "type" : "Product2",
-    "url" : "/services/data/v55.0/sobjects/Product2/01ti0000005EHKsAAO"
+    "url" : "/services/data/v55.0/sobjects/Product2/01ti0000005EHJpAAO"
   },
-  "Id" : "01ti0000005EHKsAAO",
-  "Name" : "Display",
+  "Id" : "01ti0000005EHJpAAO",
+  "Name" : "Yellow Pages",
   "IsActive" : false,
-  "CreatedDate" : "2014-04-02T17:56:49.000+0000",
+  "CreatedDate" : "2014-04-02T17:54:15.000+0000",
   "CreatedById" : "005i0000001WacyAAC",
   "LastModifiedDate" : "2018-07-18T22:21:25.000+0000",
   "LastModifiedById" : "0055A000008VuVlQAK",
   "SystemModstamp" : "2018-07-18T22:21:25.000+0000",
-  "Family" : "Digital-Display",
+  "Family" : "Print-Yellow Pages",
   "RecordTypeId" : "012i0000000tI4XAAU",
   "IsDeleted" : false,
   "IsArchived" : false,
@@ -38,7 +38,7 @@
   "SBQQ__Taxable__c" : false,
   "CPQ_Bill__c" : false,
   "CPQ_Fulfill__c" : false,
-  "CPQ_Product_Family_Search__c" : "Display",
+  "CPQ_Product_Family_Search__c" : "Yellow Pages",
   "Maintenance_Product__c" : false,
   "CPQ_Discount_cannot_be_Removed__c" : false,
   "One_Time_Fee_Product__c" : false,
