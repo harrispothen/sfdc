@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__PriceCondition__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__PriceCondition__c/a4Qf0000000PhzCEAS"
+  },
+  "Id" : "a4Qf0000000PhzCEAS",
+  "IsDeleted" : false,
+  "Name" : "1101",
+  "CreatedDate" : "2020-07-21T20:59:22.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:08.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:09.000+0000",
+  "SBQQ__Rule__c" : "a4Rf0000000cUwrEAE",
+  "SBQQ__Field__c" : "SBQQ__ProductCode__c",
+  "SBQQ__FilterType__c" : "Value",
+  "SBQQ__Index__c" : 5.0,
+  "SBQQ__Object__c" : "Quote Line",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__ParentRuleIsActive__c" : true,
+  "SBQQ__RuleTargetsCalculator__c" : true,
+  "SBQQ__Value__c" : "SOC-SOCPKG-01,SOC-CLS-02-US,SOC-PLS-02-US,SOC-STD-02-US,SOC-STD-01-US,SOC-STDS-01-US,SOC-CLSS-02-US,SOC-PLSS-02-US,SOC-STDS-02-US",
+  "External_ID__c" : "b0c830ea73f7788863f3d0e3df31c2ea"
+}
