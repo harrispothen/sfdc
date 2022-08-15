@@ -1,0 +1,30 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__CustomAction__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__CustomAction__c/a425A000001nYuRQAU"
+  },
+  "Id" : "a425A000001nYuRQAU",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "View Discount Schedule",
+  "CreatedDate" : "2019-07-10T15:43:13.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:07:12.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:07:12.000+0000",
+  "SBQQ__Action__c" : "View Discount Schedule",
+  "SBQQ__Active__c" : true,
+  "SBQQ__BrandButton__c" : false,
+  "SBQQ__Class__c" : "viewDSBtn",
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__Default__c" : false,
+  "SBQQ__DisplayOrder__c" : 997.0,
+  "SBQQ__EventHandlerName__c" : "showDSModal",
+  "SBQQ__IconClass__c" : "sf-icon-discountscheduleicons-02",
+  "SBQQ__Icon__c" : "discountscheduleicons-02",
+  "SBQQ__Label__c" : "View Discount Schedule",
+  "SBQQ__Location__c" : "Line",
+  "SBQQ__Page__c" : "Quote Line Editor",
+  "SBQQ__Type__c" : "Button",
+  "External_ID__c" : "6ebb90c671ba9581f8ed8a7e10e57393"
+}

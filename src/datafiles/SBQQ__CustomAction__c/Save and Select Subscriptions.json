@@ -1,0 +1,29 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__CustomAction__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__CustomAction__c/a425A000001nYuDQAU"
+  },
+  "Id" : "a425A000001nYuDQAU",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Save and Select Subscriptions",
+  "CreatedDate" : "2019-07-10T15:43:13.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:07:12.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:07:12.000+0000",
+  "SBQQ__Action__c" : "Save and Navigate",
+  "SBQQ__Active__c" : true,
+  "SBQQ__BrandButton__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__Default__c" : false,
+  "SBQQ__DisplayOrder__c" : 999.0,
+  "SBQQ__EventHandlerName__c" : "onSaveAndNavigate",
+  "SBQQ__Label__c" : "Save",
+  "SBQQ__Location__c" : "Quote",
+  "SBQQ__Page__c" : "Quote Line Editor",
+  "SBQQ__Type__c" : "Button",
+  "SBQQ__URLTarget__c" : "Replace Page",
+  "SBQQ__URL__c" : "/apex/c__HibuVFVerifyAddress?Id={!Id}",
+  "External_ID__c" : "5bcf058d6676be2c937337eae24fbf3e"
+}

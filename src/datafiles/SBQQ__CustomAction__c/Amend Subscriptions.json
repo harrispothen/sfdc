@@ -1,0 +1,29 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__CustomAction__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__CustomAction__c/a425A000001nYuNQAU"
+  },
+  "Id" : "a425A000001nYuNQAU",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Amend Subscriptions",
+  "CreatedDate" : "2019-07-10T15:43:13.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:07:12.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:07:12.000+0000",
+  "SBQQ__Action__c" : "Amend Subscriptions",
+  "SBQQ__Active__c" : true,
+  "SBQQ__BrandButton__c" : false,
+  "SBQQ__Class__c" : "amendSubscriptionsBtn",
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__Default__c" : false,
+  "SBQQ__DisplayOrder__c" : 901.0,
+  "SBQQ__EventHandlerName__c" : "onAmendSubscriptions",
+  "SBQQ__Label__c" : "Amend Subscriptions",
+  "SBQQ__Location__c" : "Quote/Group",
+  "SBQQ__Page__c" : "Quote Line Editor",
+  "SBQQ__ParentCustomAction__c" : "a425A000001nYuQQAU",
+  "SBQQ__Type__c" : "Button",
+  "External_ID__c" : "47fa1b44a873e07c7263697a0633221a"
+}

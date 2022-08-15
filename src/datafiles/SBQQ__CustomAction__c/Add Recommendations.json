@@ -1,0 +1,29 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__CustomAction__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__CustomAction__c/a42f0000000CXSgAAO"
+  },
+  "Id" : "a42f0000000CXSgAAO",
+  "OwnerId" : "0055A000008VuVlQAK",
+  "IsDeleted" : false,
+  "Name" : "Add Recommendations",
+  "CreatedDate" : "2020-10-26T18:25:49.000+0000",
+  "CreatedById" : "0055A000008VuVlQAK",
+  "LastModifiedDate" : "2020-10-26T18:25:49.000+0000",
+  "LastModifiedById" : "0055A000008VuVlQAK",
+  "SystemModstamp" : "2020-10-26T18:25:49.000+0000",
+  "SBQQ__Action__c" : "Add Recommendations",
+  "SBQQ__Active__c" : false,
+  "SBQQ__BrandButton__c" : false,
+  "SBQQ__Class__c" : "addRecommendedProductsBtn",
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__Default__c" : false,
+  "SBQQ__DisplayOrder__c" : 920.0,
+  "SBQQ__EventHandlerName__c" : "onAddRecommendedProducts",
+  "SBQQ__Label__c" : "Add Recommendations",
+  "SBQQ__Location__c" : "Quote/Group",
+  "SBQQ__Page__c" : "Quote Line Editor",
+  "SBQQ__ParentCustomAction__c" : "a425A000001nYuQQAU",
+  "SBQQ__Type__c" : "Button",
+  "External_ID__c" : "a9c281128901767952bcaaf524e731c8"
+}
