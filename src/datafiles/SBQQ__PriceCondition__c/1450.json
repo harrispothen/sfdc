@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__PriceCondition__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__PriceCondition__c/a4Qf0000000Rnz9EAC"
+  },
+  "Id" : "a4Qf0000000Rnz9EAC",
+  "IsDeleted" : false,
+  "Name" : "1450",
+  "CreatedDate" : "2021-08-11T13:42:11.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:11.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:11.000+0000",
+  "SBQQ__Rule__c" : "a4Rf0000000haPpEAI",
+  "SBQQ__Field__c" : "SBQQ__ProductCode__c",
+  "SBQQ__FilterType__c" : "Value",
+  "SBQQ__Index__c" : 3.0,
+  "SBQQ__Object__c" : "Quote Line",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__ParentRuleIsActive__c" : true,
+  "SBQQ__RuleTargetsCalculator__c" : true,
+  "SBQQ__Value__c" : "SCH-SETUPFEE-01",
+  "External_ID__c" : "6ca4771e018e25729c2fcd7ff3478918"
+}
