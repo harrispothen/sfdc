@@ -1,0 +1,26 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ConfigurationAttribute__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ConfigurationAttribute__c/a3x5A000000woyuQAA"
+  },
+  "Id" : "a3x5A000000woyuQAA",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Number of Clicks",
+  "CreatedDate" : "2019-08-12T20:25:44.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-07-12T12:19:00.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-07-12T12:19:00.000+0000",
+  "SBQQ__AppliedImmediately__c" : false,
+  "SBQQ__ApplyToProductOptions__c" : false,
+  "SBQQ__AutoSelect__c" : false,
+  "SBQQ__ColumnOrder__c" : "1",
+  "SBQQ__DisplayOrder__c" : 1.0,
+  "SBQQ__Global__c" : false,
+  "SBQQ__Hidden__c" : false,
+  "SBQQ__Position__c" : "Top",
+  "SBQQ__Required__c" : true,
+  "SBQQ__TargetField__c" : "CPQ_Number_of_Clicks__c",
+  "External_ID__c" : "df4842027062c43e5e8070cdd29ad229"
+}
