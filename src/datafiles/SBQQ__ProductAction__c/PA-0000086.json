@@ -1,0 +1,20 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductAction__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductAction__c/a4Xf00000006fseEAA"
+  },
+  "Id" : "a4Xf00000006fseEAA",
+  "IsDeleted" : false,
+  "Name" : "PA-0000086",
+  "CreatedDate" : "2022-08-09T14:31:42.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:36:49.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-08-09T14:36:49.000+0000",
+  "SBQQ__Rule__c" : "a4cf0000002h4EyAAI",
+  "SBQQ__ParentRuleIsActive__c" : true,
+  "SBQQ__Product__c" : "01tf0000008DuleAAC",
+  "SBQQ__Required__c" : true,
+  "SBQQ__Type__c" : "Hide & Remove",
+  "External_ID__c" : "82a795f2d8933cb82321eb593f96fcfd"
+}
