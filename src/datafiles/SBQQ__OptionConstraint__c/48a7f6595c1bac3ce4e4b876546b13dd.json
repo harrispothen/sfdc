@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__OptionConstraint__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__OptionConstraint__c/a4Of00000009rJOEAY"
+  },
+  "Id" : "a4Of00000009rJOEAY",
+  "IsDeleted" : false,
+  "Name" : "Pres28",
+  "CreatedDate" : "2020-07-08T12:22:55.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T11:30:01.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T11:30:01.000+0000",
+  "SBQQ__ConstrainedOption__c" : "a4b5A000000VM3NQAW",
+  "SBQQ__Active__c" : true,
+  "SBQQ__CheckPriorPurchases__c" : false,
+  "SBQQ__ConfiguredSKU__c" : "01tf0000006yFKEAA2",
+  "SBQQ__ConstrainingOption__c" : "a4bf000000jgt8bAAA",
+  "SBQQ__Type__c" : "Exclusion",
+  "External_ID__c" : "48a7f6595c1bac3ce4e4b876546b13dd"
+}

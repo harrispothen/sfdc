@@ -1,0 +1,20 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__OptionConstraint__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__OptionConstraint__c/a4Of00000009rJPEAY"
+  },
+  "Id" : "a4Of00000009rJPEAY",
+  "IsDeleted" : false,
+  "Name" : "Foundation 25",
+  "CreatedDate" : "2020-07-08T12:22:55.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T11:30:01.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T11:30:01.000+0000",
+  "SBQQ__ConstrainedOption__c" : "a4bf000000jgt90AAA",
+  "SBQQ__Active__c" : true,
+  "SBQQ__CheckPriorPurchases__c" : false,
+  "SBQQ__ConstrainingOption__c" : "a4bf000000jgt8IAAQ",
+  "SBQQ__Type__c" : "Exclusion",
+  "External_ID__c" : "7e7d218e923616446b271c0d814784ea"
+}
