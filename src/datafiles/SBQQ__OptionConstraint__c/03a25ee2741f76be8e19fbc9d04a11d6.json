@@ -1,0 +1,20 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__OptionConstraint__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__OptionConstraint__c/a4Of00000009rIvEAI"
+  },
+  "Id" : "a4Of00000009rIvEAI",
+  "IsDeleted" : false,
+  "Name" : "Performance 18",
+  "CreatedDate" : "2020-07-08T12:22:55.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T11:30:01.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T11:30:01.000+0000",
+  "SBQQ__ConstrainedOption__c" : "a4bf000000jgt95AAA",
+  "SBQQ__Active__c" : true,
+  "SBQQ__CheckPriorPurchases__c" : false,
+  "SBQQ__ConstrainingOption__c" : "a4bf000000jgt9nAAA",
+  "SBQQ__Type__c" : "Exclusion",
+  "External_ID__c" : "03a25ee2741f76be8e19fbc9d04a11d6"
+}
