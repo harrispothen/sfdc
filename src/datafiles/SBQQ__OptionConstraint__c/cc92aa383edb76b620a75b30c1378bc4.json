@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__OptionConstraint__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__OptionConstraint__c/a4O5A000001cDPHUA2"
+  },
+  "Id" : "a4O5A000001cDPHUA2",
+  "IsDeleted" : false,
+  "Name" : "Pres2",
+  "CreatedDate" : "2020-02-07T23:39:21.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T11:30:01.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T11:30:01.000+0000",
+  "SBQQ__ConstrainedOption__c" : "a4b5A000000VM3aQAG",
+  "SBQQ__Active__c" : true,
+  "SBQQ__CheckPriorPurchases__c" : false,
+  "SBQQ__ConfiguredSKU__c" : "01tf0000006yFKEAA2",
+  "SBQQ__ConstrainingOption__c" : "a4b5A000000VM40QAG",
+  "SBQQ__Type__c" : "Exclusion",
+  "External_ID__c" : "cc92aa383edb76b620a75b30c1378bc4"
+}

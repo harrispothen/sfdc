@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__OptionConstraint__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__OptionConstraint__c/a4O5A000001cDOzUAM"
+  },
+  "Id" : "a4O5A000001cDOzUAM",
+  "IsDeleted" : false,
+  "Name" : "Foundation 8",
+  "CreatedDate" : "2020-02-07T23:39:21.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T11:30:01.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T11:30:01.000+0000",
+  "SBQQ__ConstrainedOption__c" : "a4b5A000000VM3yQAG",
+  "SBQQ__Active__c" : true,
+  "SBQQ__CheckPriorPurchases__c" : false,
+  "SBQQ__ConfiguredSKU__c" : "01tf0000006yFKyAAM",
+  "SBQQ__ConstrainingOption__c" : "a4b5A000000VM3HQAW",
+  "SBQQ__Type__c" : "Exclusion",
+  "External_ID__c" : "9f479f28042dbec0b15c72316b995359"
+}
