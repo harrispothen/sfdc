@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateSection__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateSection__c/a4x5A000000awMMQAY"
+  },
+  "Id" : "a4x5A000000awMMQAY",
+  "IsDeleted" : false,
+  "Name" : "Line Items Header",
+  "CreatedDate" : "2019-07-10T15:26:04.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:21:40.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:21:40.000+0000",
+  "SBQQ__Template__c" : "a4h5A000001AHRRQA4",
+  "SBQQ__BottomMargin__c" : 0.5,
+  "SBQQ__ColumnHeaderHidden__c" : false,
+  "SBQQ__Content__c" : "a4w5A000000aBYXQA2",
+  "SBQQ__DisplayOrder__c" : 20.0,
+  "SBQQ__KeepTogether__c" : "Auto",
+  "SBQQ__KeepWithNext__c" : "Auto",
+  "SBQQ__QuoteTotalsPrinted__c" : false,
+  "SBQQ__TopMargin__c" : 0.0,
+  "External_ID__c" : "2004ad475515f28ca25b47d2be08212a"
+}

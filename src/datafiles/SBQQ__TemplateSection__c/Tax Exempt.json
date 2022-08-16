@@ -1,0 +1,25 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateSection__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateSection__c/a4x5A000000awMSQAY"
+  },
+  "Id" : "a4x5A000000awMSQAY",
+  "IsDeleted" : false,
+  "Name" : "Tax Exempt",
+  "CreatedDate" : "2019-07-10T15:26:04.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:21:40.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:21:40.000+0000",
+  "SBQQ__Template__c" : "a4h5A000001AHRRQA4",
+  "SBQQ__BottomMargin__c" : 0.0,
+  "SBQQ__ColumnHeaderHidden__c" : false,
+  "SBQQ__ConditionalPrintField__c" : "CPQ_Tax_Exempt__c",
+  "SBQQ__DisplayOrder__c" : 35.0,
+  "SBQQ__KeepTogether__c" : "Always",
+  "SBQQ__KeepWithNext__c" : "Auto",
+  "SBQQ__KeepWithPrevious__c" : "Always",
+  "SBQQ__QuoteTotalsPrinted__c" : false,
+  "SBQQ__TopMargin__c" : 0.0,
+  "External_ID__c" : "bfe7931863e3402fd2544e01a6ff14da"
+}

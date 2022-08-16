@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateSection__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateSection__c/a4xf00000004M4aAAE"
+  },
+  "Id" : "a4xf00000004M4aAAE",
+  "IsDeleted" : false,
+  "Name" : "test",
+  "CreatedDate" : "2020-07-09T11:27:43.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:21:40.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:21:40.000+0000",
+  "SBQQ__Template__c" : "a4h5A000001AHROQA4",
+  "SBQQ__BottomMargin__c" : 0.0,
+  "SBQQ__ColumnHeaderHidden__c" : false,
+  "SBQQ__Content__c" : "a4wf00000049NeyAAE",
+  "SBQQ__KeepTogether__c" : "Auto",
+  "SBQQ__KeepWithNext__c" : "Auto",
+  "SBQQ__QuoteTotalsPrinted__c" : false,
+  "SBQQ__TopMargin__c" : 0.0,
+  "External_ID__c" : "7d0315c5ffeb2982112c543429cf6181"
+}

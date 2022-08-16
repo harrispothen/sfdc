@@ -1,0 +1,26 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateSection__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateSection__c/a4x5A000000awMRQAY"
+  },
+  "Id" : "a4x5A000000awMRQAY",
+  "IsDeleted" : false,
+  "Name" : "Signature Block Section",
+  "CreatedDate" : "2019-07-10T15:26:04.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:21:40.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:21:40.000+0000",
+  "SBQQ__Template__c" : "a4h5A000001AHRPQA4",
+  "SBQQ__BottomMargin__c" : 0.0,
+  "SBQQ__ColumnHeaderHidden__c" : false,
+  "SBQQ__ConditionalPrintField__c" : "CPQ_Digital_Signature_Captured__c",
+  "SBQQ__Content__c" : "a4w5A000000aBYWQA2",
+  "SBQQ__DisplayOrder__c" : 60.0,
+  "SBQQ__KeepTogether__c" : "Always",
+  "SBQQ__KeepWithNext__c" : "Auto",
+  "SBQQ__KeepWithPrevious__c" : "Always",
+  "SBQQ__QuoteTotalsPrinted__c" : false,
+  "SBQQ__TopMargin__c" : 0.0,
+  "External_ID__c" : "49e285b638e45372e286dbdd05aa7e10"
+}
