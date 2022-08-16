@@ -1,0 +1,19 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ConfigurationRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ConfigurationRule__c/a3y5A0000002IzQQAU"
+  },
+  "Id" : "a3y5A0000002IzQQAU",
+  "IsDeleted" : false,
+  "Name" : "CR-000233",
+  "CreatedDate" : "2019-11-02T00:04:56.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:43:06.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:43:06.000+0000",
+  "SBQQ__ProductRule__c" : "a4c5A000000bGB0QAM",
+  "SBQQ__Active__c" : true,
+  "SBQQ__RuleEvaluationEvent__c" : "Always",
+  "SBQQ__RuleType__c" : "Selection",
+  "External_ID__c" : "d5702432599416c96b23184c5e838741"
+}
