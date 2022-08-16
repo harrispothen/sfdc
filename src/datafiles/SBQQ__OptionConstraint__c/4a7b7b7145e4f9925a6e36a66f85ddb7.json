@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__OptionConstraint__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__OptionConstraint__c/a4Of0000000K8OeEAK"
+  },
+  "Id" : "a4Of0000000K8OeEAK",
+  "IsDeleted" : false,
+  "Name" : "Online Foundation Solution",
+  "CreatedDate" : "2020-10-14T13:31:32.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T11:30:01.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T11:30:01.000+0000",
+  "SBQQ__ConstrainedOption__c" : "a4bf000000lruOXAAY",
+  "SBQQ__Active__c" : true,
+  "SBQQ__CheckPriorPurchases__c" : false,
+  "SBQQ__ConfiguredSKU__c" : "01tf0000006yFKyAAM",
+  "SBQQ__ConstrainingOption__c" : "a4b5A000000VM4JQAW",
+  "SBQQ__Type__c" : "Exclusion",
+  "External_ID__c" : "4a7b7b7145e4f9925a6e36a66f85ddb7"
+}
