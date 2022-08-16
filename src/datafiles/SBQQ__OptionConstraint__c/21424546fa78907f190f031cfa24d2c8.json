@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__OptionConstraint__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__OptionConstraint__c/a4Of00000009vTtEAI"
+  },
+  "Id" : "a4Of00000009vTtEAI",
+  "IsDeleted" : false,
+  "Name" : "Standard Website",
+  "CreatedDate" : "2021-05-19T13:30:59.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T11:30:01.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T11:30:01.000+0000",
+  "SBQQ__ConstrainedOption__c" : "a4b5A000000VM7mQAG",
+  "SBQQ__Active__c" : true,
+  "SBQQ__CheckPriorPurchases__c" : false,
+  "SBQQ__ConfiguredSKU__c" : "01tf0000007TE2PAAW",
+  "SBQQ__ConstrainingOption__c" : "a4bf000000ljHYyAAM",
+  "SBQQ__Type__c" : "Exclusion",
+  "External_ID__c" : "21424546fa78907f190f031cfa24d2c8"
+}

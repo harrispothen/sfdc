@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__OptionConstraint__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__OptionConstraint__c/a4Of0000000K8OhEAK"
+  },
+  "Id" : "a4Of0000000K8OhEAK",
+  "IsDeleted" : false,
+  "Name" : "Smart Online Presence",
+  "CreatedDate" : "2020-10-14T13:31:32.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T11:30:01.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T11:30:01.000+0000",
+  "SBQQ__ConstrainedOption__c" : "a4bf000000lruPIAAY",
+  "SBQQ__Active__c" : true,
+  "SBQQ__CheckPriorPurchases__c" : false,
+  "SBQQ__ConfiguredSKU__c" : "01tf0000006yFKEAA2",
+  "SBQQ__ConstrainingOption__c" : "a4b5A000000VM4cQAG",
+  "SBQQ__Type__c" : "Exclusion",
+  "External_ID__c" : "88d7edf77a04510c2e53750e747c2faa"
+}

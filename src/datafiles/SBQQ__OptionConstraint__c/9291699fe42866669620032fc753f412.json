@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__OptionConstraint__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__OptionConstraint__c/a4Of0000000K8OfEAK"
+  },
+  "Id" : "a4Of0000000K8OfEAK",
+  "IsDeleted" : false,
+  "Name" : "Search",
+  "CreatedDate" : "2020-10-14T13:31:32.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T11:30:01.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T11:30:01.000+0000",
+  "SBQQ__ConstrainedOption__c" : "a4bf000000lruPHAAY",
+  "SBQQ__Active__c" : true,
+  "SBQQ__CheckPriorPurchases__c" : false,
+  "SBQQ__ConfiguredSKU__c" : "01tf0000006yFLJAA2",
+  "SBQQ__ConstrainingOption__c" : "a4bf000000lruPXAAY",
+  "SBQQ__Type__c" : "Dependency",
+  "External_ID__c" : "9291699fe42866669620032fc753f412"
+}
