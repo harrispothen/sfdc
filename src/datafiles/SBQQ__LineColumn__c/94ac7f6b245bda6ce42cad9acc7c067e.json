@@ -1,0 +1,31 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LineColumn__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LineColumn__c/a4K5A000000pyhPUAQ"
+  },
+  "Id" : "a4K5A000000pyhPUAQ",
+  "IsDeleted" : false,
+  "Name" : "PART #",
+  "CreatedDate" : "2019-07-10T15:24:20.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:19:47.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:19:47.000+0000",
+  "SBQQ__Template__c" : "a4h5A000001AHRQQA4",
+  "SBQQ__Alignment__c" : "Left",
+  "SBQQ__BottomMargin__c" : 3.0,
+  "SBQQ__DisplayOrder__c" : 20.0,
+  "SBQQ__DynamicNumberScale__c" : false,
+  "SBQQ__FieldName__c" : "SBQQ__ProductCode__c",
+  "SBQQ__FontWeight__c" : "Normal",
+  "SBQQ__HideOnComponents__c" : false,
+  "SBQQ__LeftMargin__c" : 3.0,
+  "SBQQ__RightMargin__c" : 3.0,
+  "SBQQ__RollUp__c" : false,
+  "SBQQ__SeparateLine__c" : false,
+  "SBQQ__SummaryLevel__c" : "All",
+  "SBQQ__TopMargin__c" : 3.0,
+  "SBQQ__WidthDiscardedWhenHidden__c" : false,
+  "SBQQ__Width__c" : 10.0,
+  "External_ID__c" : "94ac7f6b245bda6ce42cad9acc7c067e"
+}
