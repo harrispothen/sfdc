@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4u5A000000iOOXQA2"
+  },
+  "Id" : "a4u5A000000iOOXQA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Count of Standard Website - Spread Billing",
+  "CreatedDate" : "2019-07-10T13:42:32.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:20.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Count",
+  "SBQQ__FilterField__c" : "CPQ_Product_Code__c",
+  "SBQQ__FilterValue__c" : "WBS-STANDARDSPD-01",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "8a8289026e3727c95ef57b385bf75d83"
+}

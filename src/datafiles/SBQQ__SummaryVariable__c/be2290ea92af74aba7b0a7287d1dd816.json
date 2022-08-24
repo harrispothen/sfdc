@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4u5A000000iOOYQA2"
+  },
+  "Id" : "a4u5A000000iOOYQA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Sum of Reviews products",
+  "CreatedDate" : "2019-07-10T13:42:32.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:20.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "CPQ_Product_Code__c",
+  "SBQQ__FilterValue__c" : "REV-STD-01,REV-STD-01AL",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "be2290ea92af74aba7b0a7287d1dd816"
+}

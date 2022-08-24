@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4u5A000000Tez5QAC"
+  },
+  "Id" : "a4u5A000000Tez5QAC",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Sum Prior Quantity of Display",
+  "CreatedDate" : "2020-04-17T20:05:10.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:19.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:19.000+0000",
+  "SBQQ__AggregateField__c" : "SBQQ__PriorQuantity__c",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "CPQ_Product_Code__c",
+  "SBQQ__FilterValue__c" : "DSP-DSPPKG-01",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "17e3c91a1ac394244432a7596ac3e1cc"
+}
