@@ -1,19 +1,17 @@
 {
   "attributes" : {
     "type" : "SBQQ__QuoteTemplate__c",
-    "url" : "/services/data/v55.0/sobjects/SBQQ__QuoteTemplate__c/a4h5A000001AHRPQA4"
+    "url" : "/services/data/v55.0/sobjects/SBQQ__QuoteTemplate__c/a4h5A000001AHRRQA4"
   },
-  "Id" : "a4h5A000001AHRPQA4",
+  "Id" : "a4h5A000001AHRRQA4",
   "OwnerId" : "005i0000005JKILAA4",
   "IsDeleted" : false,
-  "Name" : "Contract",
+  "Name" : "Proposal",
   "CreatedDate" : "2019-07-10T15:20:19.000+0000",
   "CreatedById" : "005i0000005JKILAA4",
   "LastModifiedDate" : "2022-05-18T13:15:35.000+0000",
   "LastModifiedById" : "005i0000005JKILAA4",
   "SystemModstamp" : "2022-05-18T13:15:35.000+0000",
-  "LastViewedDate" : "2022-08-24T15:35:47.000+0000",
-  "LastReferencedDate" : "2022-08-24T15:35:47.000+0000",
   "SBQQ__AllPackageProductsShown__c" : true,
   "SBQQ__BillToTitle__c" : "Bill To",
   "SBQQ__BorderColor__c" : "FFFFFF",
@@ -29,7 +27,7 @@
   "SBQQ__ComponentProductsHidden__c" : false,
   "SBQQ__CustomerDiscountLabel__c" : "DISCOUNT",
   "SBQQ__CustomerDiscountShown__c" : false,
-  "SBQQ__Default__c" : true,
+  "SBQQ__Default__c" : false,
   "SBQQ__DeploymentStatus__c" : "Deployed",
   "SBQQ__FontFamily__c" : "Helvetica",
   "SBQQ__FontSize__c" : 9.0,
@@ -42,10 +40,9 @@
   "SBQQ__GroupTextAlignment__c" : "Left",
   "SBQQ__GroupTextColor__c" : "FFFFFF",
   "SBQQ__HideGroupSubtotals__c" : false,
-  "SBQQ__IntroductionTitle__c" : "Test",
   "SBQQ__LeftMargin__c" : 0.5,
   "SBQQ__LineNumbering__c" : "Start at quote",
-  "SBQQ__LogoDocumentId__c" : "0155A00000AIETO",
+  "SBQQ__LogoDocumentId__c" : "0155A00000AIF1LQAX",
   "SBQQ__PageHeight__c" : 11.0,
   "SBQQ__PageNumberAlignment__c" : "Right",
   "SBQQ__PageNumberPosition__c" : "Footer",
@@ -63,5 +60,5 @@
   "SBQQ__TermsNumbered__c" : false,
   "SBQQ__TopMargin__c" : 0.5,
   "SBQQ__TotalsHidden__c" : false,
-  "External_ID__c" : "9d58df0ecd34c9bb9345b0e1045f8dca"
+  "External_ID__c" : "ceff35af9629a50d6438a7957510ccaf"
 }
