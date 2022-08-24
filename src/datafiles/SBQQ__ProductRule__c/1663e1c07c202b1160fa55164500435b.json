@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf00000035T8pAAE"
+  },
+  "Id" : "a4cf00000035T8pAAE",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Cancellation Type and Reason Required",
+  "CreatedDate" : "2021-07-14T14:24:01.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:13.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "1 AND (2 OR 3) AND 4",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "Cancellation reason and type are required on all Quote Lines that are selected for cancellation",
+  "SBQQ__EvaluationEvent__c" : "Save",
+  "SBQQ__EvaluationOrder__c" : 500.0,
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "1663e1c07c202b1160fa55164500435b"
+}

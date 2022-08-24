@@ -1,0 +1,22 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf0000003UGucAAG"
+  },
+  "Id" : "a4cf0000003UGucAAG",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Local Ranking Pilot",
+  "CreatedDate" : "2020-10-14T14:28:48.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2021-03-04T22:20:22.000+0000",
+  "LastModifiedById" : "005i0000003S9sFAAS",
+  "SystemModstamp" : "2021-03-04T22:20:22.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 500.0,
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Selection",
+  "External_ID__c" : "012b454002047aa988169f3708cb0af0"
+}

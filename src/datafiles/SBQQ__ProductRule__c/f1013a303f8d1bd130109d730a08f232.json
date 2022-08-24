@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf0000000ORCtAAO"
+  },
+  "Id" : "a4cf0000000ORCtAAO",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Validation for One Time Fee Entry",
+  "CreatedDate" : "2020-12-09T14:39:06.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:41:18.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:41:18.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "You may not enter a One Time Fee amount for this product.",
+  "SBQQ__EvaluationEvent__c" : "Save",
+  "SBQQ__EvaluationOrder__c" : 80.0,
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "f1013a303f8d1bd130109d730a08f232"
+}

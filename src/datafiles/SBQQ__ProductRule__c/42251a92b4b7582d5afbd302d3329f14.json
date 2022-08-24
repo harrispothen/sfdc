@@ -1,0 +1,25 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf000000339jkAAA"
+  },
+  "Id" : "a4cf000000339jkAAA",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Solution Maximum Budget Validation",
+  "CreatedDate" : "2020-07-08T12:40:19.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:41:18.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:41:18.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "Please enter a Search Budget amount equal to or greater than the Budget Minimum and less than the Maximum Budget",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 800.0,
+  "SBQQ__LookupMessageField__c" : "SBQQ__Message__c",
+  "SBQQ__LookupObject__c" : "SBQQ__LookupData__c",
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "42251a92b4b7582d5afbd302d3329f14"
+}

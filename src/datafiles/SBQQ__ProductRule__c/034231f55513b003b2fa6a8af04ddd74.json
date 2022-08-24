@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf0000002gkL7AAI"
+  },
+  "Id" : "a4cf0000002gkL7AAI",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Uncheck Assistant for Non-Sales",
+  "CreatedDate" : "2021-12-01T12:47:46.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:12.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "(1 OR 2 OR 3 OR 4 OR 5 OR 6 OR 7 OR 8 OR 9) AND 10",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__EvaluationEvent__c" : "Load",
+  "SBQQ__EvaluationOrder__c" : 5000.0,
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Selection",
+  "External_ID__c" : "034231f55513b003b2fa6a8af04ddd74"
+}

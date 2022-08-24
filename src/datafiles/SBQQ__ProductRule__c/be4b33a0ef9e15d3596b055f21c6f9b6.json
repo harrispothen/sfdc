@@ -1,0 +1,22 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf0000003Ulk6AAC"
+  },
+  "Id" : "a4cf0000003Ulk6AAC",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Assistant Pilot",
+  "CreatedDate" : "2021-04-21T13:18:22.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2021-12-14T18:17:42.000+0000",
+  "LastModifiedById" : "005i0000003S9sFAAS",
+  "SystemModstamp" : "2021-12-14T18:17:42.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 500.0,
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Selection",
+  "External_ID__c" : "be4b33a0ef9e15d3596b055f21c6f9b6"
+}

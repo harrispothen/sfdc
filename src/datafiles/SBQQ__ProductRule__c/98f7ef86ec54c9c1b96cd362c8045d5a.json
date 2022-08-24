@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf00000035UzLAAU"
+  },
+  "Id" : "a4cf00000035UzLAAU",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Assistant Reminder Being Selected",
+  "CreatedDate" : "2021-10-27T11:24:43.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:13.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__AdvancedCondition__c" : "(1 OR 2 OR 3 OR 4 OR 5 OR 6) AND 7",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "Reminder Assistant is Pre-Checked on all Solutions and needs to be Un-Checked during product configuration if not being sold.",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Alert",
+  "External_ID__c" : "98f7ef86ec54c9c1b96cd362c8045d5a"
+}
