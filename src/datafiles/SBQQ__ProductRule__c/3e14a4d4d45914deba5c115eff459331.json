@@ -1,0 +1,22 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000bGrxQAE"
+  },
+  "Id" : "a4c5A000000bGrxQAE",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Maximum Budget of Social - Performance Sync",
+  "CreatedDate" : "2019-08-12T20:36:28.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2020-08-07T14:55:09.000+0000",
+  "LastModifiedById" : "005i0000003S9sFAAS",
+  "SystemModstamp" : "2020-08-07T14:55:09.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "You cannot exceed a Social Budget of $1498 for this Promotion.",
+  "SBQQ__EvaluationEvent__c" : "Save",
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "3e14a4d4d45914deba5c115eff459331"
+}

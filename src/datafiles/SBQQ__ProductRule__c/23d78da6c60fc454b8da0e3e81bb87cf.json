@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000bGBOQA2"
+  },
+  "Id" : "a4c5A000000bGBOQA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "A la carte alert for Presence Complete 1",
+  "CreatedDate" : "2019-07-10T13:49:45.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:12.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__AdvancedCondition__c" : "(5 AND 6 AND 1 AND 2 AND (3 OR 4 OR 7 OR 9)) OR\r\n(5 AND 6 AND 1 AND (3 OR 4 OR 7 OR 9)) OR\r\n(5 AND 6 AND 2 AND (3 OR 4 OR 7 OR 9))",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "Based on your selections, you may want to recommend the  Smart Online Presence Solution package.",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 100.0,
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Alert",
+  "External_ID__c" : "23d78da6c60fc454b8da0e3e81bb87cf"
+}
