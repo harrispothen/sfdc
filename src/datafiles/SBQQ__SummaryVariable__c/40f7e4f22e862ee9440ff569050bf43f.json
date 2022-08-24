@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4uf00000002GRDAA2"
+  },
+  "Id" : "a4uf00000002GRDAA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Solutions Social Product Codes - Sum",
+  "CreatedDate" : "2020-07-08T12:36:21.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:20.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "SOL-FNDSOCSCHSM-01,SOL-FNDSOCSCHME-01,SOL-FNDSOCSCHLG-01,SOL-PRSSOCSHCSM-01,SOL-PRSSOCSCHME-01,SOL-PRSSOCSCHLG-01,SOL-SMARTSYNSML-01,SOL-SMARTSYNLG-01,SOL-SMARTSYNMED-01,SOL-SYNCMKTSML-01,SOL-SYNCMKTLG-01,SOL-SYNCMKTMED-01",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "40f7e4f22e862ee9440ff569050bf43f"
+}
