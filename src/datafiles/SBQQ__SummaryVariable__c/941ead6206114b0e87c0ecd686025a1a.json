@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4uf00000003DXrAAM"
+  },
+  "Id" : "a4uf00000003DXrAAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Sum Prior Quantity of HGCP Mobile Boost Products",
+  "CreatedDate" : "2020-09-16T13:58:23.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:20.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "SBQQ__PriorQuantity__c",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "MB-STD-T1-01-US,MB-STD-T2-01-US,MB-STD-T3-01-US,MB-STD-T4-01-US,MB-STD-T5-01-US",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "941ead6206114b0e87c0ecd686025a1a"
+}
