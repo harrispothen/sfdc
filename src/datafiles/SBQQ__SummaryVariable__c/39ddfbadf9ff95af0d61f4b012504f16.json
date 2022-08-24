@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4u5A000000LLu7QAG"
+  },
+  "Id" : "a4u5A000000LLu7QAG",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Sum Prior Quantity of HGCP Search Products",
+  "CreatedDate" : "2020-05-14T19:06:56.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:20.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "SBQQ__PriorQuantity__c",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "SCH-CLS-01-US,SCH-CUS-01-US,SCH-PLS-01-US,SCH-STD-01-US,SCH-CLS1-01-US,SCH-PLS1-01-US,SCH-CUS1-01-US,SCH-STD1-01-US,SCH-BAS1-01-US,SCH-BAS2-01-US,SCH-BAS3-01-US",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "39ddfbadf9ff95af0d61f4b012504f16"
+}

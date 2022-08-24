@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4u5A000000TdCUQA0"
+  },
+  "Id" : "a4u5A000000TdCUQA0",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Count of DUDA Pro Websites - Child Lines",
+  "CreatedDate" : "2019-12-14T00:23:34.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:20.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Count",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "WBS-DDMN-01-US,WBS-DASS-01-US,WBS-HLM-01-US,WBS-DVID-01-US,WBS-DSCHA-01-US,WBS-DCART1-01-US,WBS-DWAV-01-US,WBS-DT4OH-01-US,WBS-DT4O-01-US,WBS-DT4SH-01-US,WBS-DT4S-01-US,WBS-DBDT4S-01-US",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "0d1b4e548f0ab08ae7ba01e082787110"
+}

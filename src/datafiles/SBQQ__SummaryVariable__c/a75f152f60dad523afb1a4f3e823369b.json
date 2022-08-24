@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4u5A000000LLn1QAG"
+  },
+  "Id" : "a4u5A000000LLn1QAG",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Sum of Quantity of Listings & Wave SKU's -AL",
+  "CreatedDate" : "2020-05-02T00:07:57.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:19.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:19.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "CPQ_Product_Code__c",
+  "SBQQ__FilterValue__c" : "HLM-STD-01AL,HLM-STD-02-USAL,WAV-1YRM-01-USAL,WAV-B1YRM-01AL-US,WAV-A1YRM-01-USAL,WBS-HLM-01-USAL,WBS-DWAV-01-USAL,WBS-CLD1YRM-01-USAL,WBS-CLD-01-USAL",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "a75f152f60dad523afb1a4f3e823369b"
+}
