@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4uf0000000nJllAAE"
+  },
+  "Id" : "a4uf0000000nJllAAE",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Count of Display - Reinstate",
+  "CreatedDate" : "2021-07-20T14:48:30.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:20.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Count",
+  "SBQQ__FilterField__c" : "SBQQ__ProductCode__c",
+  "SBQQ__FilterValue__c" : "DSP-01-US",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "3f4bf34ff6ad419c23ae53f4e2984fc7"
+}
