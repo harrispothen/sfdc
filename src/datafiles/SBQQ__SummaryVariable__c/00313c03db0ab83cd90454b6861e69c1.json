@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4uf0000000DNviAAG"
+  },
+  "Id" : "a4uf0000000DNviAAG",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Active Check Smart Site Pro",
+  "CreatedDate" : "2020-10-14T14:26:36.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:19.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "Active_Check__c",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "WBS-PRO-01,WBS-PROSPD-01,WBS-PROPKG-01",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "00313c03db0ab83cd90454b6861e69c1"
+}

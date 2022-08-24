@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4uf0000000DNvvAAG"
+  },
+  "Id" : "a4uf0000000DNvvAAG",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Active Check Search",
+  "CreatedDate" : "2020-10-14T14:26:37.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:20.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "Active_Check__c",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "SCH-SEARCH-01",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "f17f5a0951438fcfa77d40a1d34b269b"
+}

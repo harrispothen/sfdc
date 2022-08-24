@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4uf0000000DNvtAAG"
+  },
+  "Id" : "a4uf0000000DNvtAAG",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Count of Quantity of Pro Package Website",
+  "CreatedDate" : "2020-10-14T14:26:37.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:19.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Count",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "WBS-PROPKG-01",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "03533395c1f6f284087d11b900ef450e"
+}
