@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4uf00000011IVcAAM"
+  },
+  "Id" : "a4uf00000011IVcAAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Sum of Website - Child Lines",
+  "CreatedDate" : "2022-08-09T14:26:00.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:26:00.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-08-09T14:26:00.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "WBS-VID1YRM-01-US, WBS-CLD1YRM-01-US, WBS-DMNPRM-01-US, WBS-SCHA-01-US, WBS-SVC1YRM-01-US, WBS-PRM1YRM-01-US, WBS-PRM119-01-US, WBS-PRM139-01-US, WBS-BLDR-01-US, WTR-BAS-01-US, WTR-BLDBASR-01-US, WBS-DDMN-01-US, WBS-DASS-01-US, WBS-DCART-01-US, WBS-DT1O-0",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "df21c0bddd2f2ac833bcc9507e7b0923"
+}

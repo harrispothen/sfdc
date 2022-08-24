@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4uf00000003DXeAAM"
+  },
+  "Id" : "a4uf00000003DXeAAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Date Social Comp - HCGP",
+  "CreatedDate" : "2020-09-16T13:58:23.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:20.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "Budget_Comp__c",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "SOC-CLS-02-US,SOC-PLS-02-US,SOC-STD-02-US,SOC-STD-01-US,SOC-STDS-01-US,SOC-CLSS-02-US,SOC-PLSS-02-US,SOC-STDS-02-US",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "ee3a0047375346e816721b06daea99a6"
+}
