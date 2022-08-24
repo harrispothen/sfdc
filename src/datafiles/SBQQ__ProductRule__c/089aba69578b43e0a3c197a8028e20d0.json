@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000bGB9QAM"
+  },
+  "Id" : "a4c5A000000bGB9QAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Cannot upgrade A la carte product to Presence + Performance Sync",
+  "CreatedDate" : "2019-07-10T13:49:45.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2020-05-02T00:14:55.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2020-05-02T00:14:55.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "You cannot upgrade an a la carte product to a Presence + Performance Sync Promotion.",
+  "SBQQ__EvaluationEvent__c" : "Save",
+  "SBQQ__EvaluationOrder__c" : 250.0,
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "089aba69578b43e0a3c197a8028e20d0"
+}

@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000bGBIQA2"
+  },
+  "Id" : "a4c5A000000bGBIQA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Cannot upgrade HGCP A la carte product to Performance Sync",
+  "CreatedDate" : "2019-07-10T13:49:45.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:12.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__AdvancedCondition__c" : "(1 AND 3 AND 2 AND 4 AND 5 AND 11 AND (8 OR 9)) OR (1 AND 3 AND 6 AND 4 AND 5 AND 12 AND (9 OR 10)) OR (1 AND 3 AND 7 AND 4 AND 5 AND 13 AND (8 OR 10))",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "You cannot upgrade a Performance (HGCP) product to the Performance Sync Promotion.",
+  "SBQQ__EvaluationEvent__c" : "Save",
+  "SBQQ__EvaluationOrder__c" : 250.0,
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "04256a012bfaf0cd4ae227500e1eba6a"
+}

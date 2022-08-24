@@ -1,0 +1,22 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000bGB3QAM"
+  },
+  "Id" : "a4c5A000000bGB3QAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "A la carte alert for Social Starter Solution",
+  "CreatedDate" : "2019-07-10T13:49:45.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-02-23T15:10:16.000+0000",
+  "LastModifiedById" : "0055A000008goaVQAQ",
+  "SystemModstamp" : "2022-02-23T15:10:16.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "Based on your selections, you may want to recommend the  Social Starter Solution package.",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Alert",
+  "External_ID__c" : "89239771c6d4016320d1dfce0be0125e"
+}

@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000bGB5QAM"
+  },
+  "Id" : "a4c5A000000bGB5QAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Managed Search more than one option alert",
+  "CreatedDate" : "2019-07-10T13:49:45.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:41:18.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:41:18.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "Are you sure you want more than one Search campaign?",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 10.0,
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Alert",
+  "External_ID__c" : "b292a7b8f45afcd4cabd6c2d2da87184"
+}

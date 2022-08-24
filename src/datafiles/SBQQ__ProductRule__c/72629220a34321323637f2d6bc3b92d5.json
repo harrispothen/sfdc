@@ -1,0 +1,22 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000bGBDQA2"
+  },
+  "Id" : "a4c5A000000bGBDQA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Budget Alert for Social Starter Solution Package",
+  "CreatedDate" : "2019-07-10T13:49:45.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-02-23T15:11:19.000+0000",
+  "LastModifiedById" : "0055A000008goaVQAQ",
+  "SystemModstamp" : "2022-02-23T15:11:19.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "Please consider recommending the Enhanced Social Solution package.",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Alert",
+  "External_ID__c" : "72629220a34321323637f2d6bc3b92d5"
+}

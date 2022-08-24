@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000bGB0QAM"
+  },
+  "Id" : "a4c5A000000bGB0QAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Hide Search & Social when listing category is Bail Bonds",
+  "CreatedDate" : "2019-07-10T13:49:45.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:41:18.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:41:18.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Selection",
+  "External_ID__c" : "3ad7847c5c66c4d874c873b590c42965"
+}

@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000bGBBQA2"
+  },
+  "Id" : "a4c5A000000bGBBQA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "A la carte alert for Presence Foundation",
+  "CreatedDate" : "2019-07-10T13:49:45.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:41:18.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:41:18.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "Based on your selections, you may want to recommend the \t\nOnline Foundation Solution package.",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 100.0,
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Alert",
+  "External_ID__c" : "f61b29fd5a504b24e239cdba8531de78"
+}
