@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000bGxhQAE"
+  },
+  "Id" : "a4c5A000000bGxhQAE",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Block Date Validation-1",
+  "CreatedDate" : "2019-08-26T16:07:00.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:12.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__AdvancedCondition__c" : "(1 AND 2 AND 7) OR (1 AND 3 AND 8) OR (1 AND 4 AND 9) OR (1 AND 5 AND 10) OR (1 AND 6 AND 11)",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "This Budget-based Product has already been amended within the current Billing Cycle and it cannot be amended again until after its next Billing Anniversary Date.",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "c0737ad303e5522dec2b2d7c4d26efc8"
+}
