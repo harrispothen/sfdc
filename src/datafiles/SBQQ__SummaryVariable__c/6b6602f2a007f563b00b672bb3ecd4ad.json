@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4uf00000002GR6AAM"
+  },
+  "Id" : "a4uf00000002GR6AAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Solutions Display Product Codes - Sum",
+  "CreatedDate" : "2020-07-08T12:36:21.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:20.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:20.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "SOL-FOUND1AD-01,SOL-FOUNDDSPSOC-01,SOL-FNDDSPSCHSM-01,SOL-FNDDSPSCHME-01,SOL-FNDDSPSCHLG-01,SOL-PRESENCE1AD-01,SOL-PRESDDSPSOC-01,SOL-PRSDSPSCHSM-01,SOL-PRSDSPSCHME-01,SOL-PRSDSPSCHLG-01",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "6b6602f2a007f563b00b672bb3ecd4ad"
+}
