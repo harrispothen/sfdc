@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf0000002h4ExAAI"
+  },
+  "Id" : "a4cf0000002h4ExAAI",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Validation of Active Social Ad Rebuild",
+  "CreatedDate" : "2022-08-09T14:28:33.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:35:39.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-08-09T14:35:39.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "You cannot add the Social Rebuild Product when the Social Product has already been rebuilt.  Please remove the product from the quote.",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 7.0,
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "12dd6383665ccd6e177607e1f331412f"
+}

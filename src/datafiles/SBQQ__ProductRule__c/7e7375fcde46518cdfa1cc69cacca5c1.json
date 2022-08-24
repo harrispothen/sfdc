@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf0000002h4EzAAI"
+  },
+  "Id" : "a4cf0000002h4EzAAI",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Social Ad Rebuild Pending/Paused",
+  "CreatedDate" : "2022-08-09T14:28:33.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:12.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "(1 AND 2 AND 3) OR (1 AND 2 AND 4) OR (1 AND 2 AND 5 AND 6)",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "You cannot add the Social Ad Rebuild Product when the Social Product is Paused or Canceled",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 9.0,
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "7e7375fcde46518cdfa1cc69cacca5c1"
+}

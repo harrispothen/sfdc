@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf0000002h4F1AAI"
+  },
+  "Id" : "a4cf0000002h4F1AAI",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Social Ad Rebuild Validation - DIG-22432",
+  "CreatedDate" : "2022-08-09T14:28:33.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:35:39.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-08-09T14:35:39.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "You have Social Ad Rebuild on your quote but the account is not increasing by at least $99 or Social ads have already been rebuilt for this client.  Either increase the quote by at least $99.00 or remove the Social Ad Rebuild from the quote.",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 11.0,
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "ff30599fa4beeda51c8d2638eee2ec6d"
+}
