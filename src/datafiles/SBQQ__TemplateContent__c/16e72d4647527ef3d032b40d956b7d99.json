@@ -1,0 +1,19 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateContent__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateContent__c/a4wf0000000HUv7AAG"
+  },
+  "Id" : "a4wf0000000HUv7AAG",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Cover Page 7-10-20",
+  "CreatedDate" : "2020-07-10T11:59:42.000+0000",
+  "CreatedById" : "005i0000004afvgAAA",
+  "LastModifiedDate" : "2022-05-18T13:18:23.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:18:23.000+0000",
+  "SBQQ__RawMarkup__c" : "<img alt=\"User-added image\" src=\"https://hibu--stage--c.documentforce.com/servlet/servlet.ImageServer?id=015f00000015pV1&amp;oid=00Df0000003fDyX&amp;lastMod=1594404651000\" />",
+  "SBQQ__TableStyle__c" : "Standard",
+  "SBQQ__Type__c" : "HTML",
+  "External_ID__c" : "16e72d4647527ef3d032b40d956b7d99"
+}

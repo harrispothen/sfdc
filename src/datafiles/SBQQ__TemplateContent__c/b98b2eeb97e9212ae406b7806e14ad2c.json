@@ -1,0 +1,20 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateContent__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateContent__c/a4w5A000000aBYWQA2"
+  },
+  "Id" : "a4w5A000000aBYWQA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Signature Block Content",
+  "CreatedDate" : "2019-07-10T15:22:42.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:18:23.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:18:23.000+0000",
+  "SBQQ__FontSize__c" : 10.0,
+  "SBQQ__RawMarkup__c" : "<table border=\"0\" style=\"width:100%; margin-top: 10px; margin-bottom: 10px;\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:100%;padding-left:2px;padding-bottom:2px;padding-top:2px;background-color:#143854;\"><span style=\"color:#ffffff;\"><span style=\"font-size:10px;\"><strong>Confirmation</strong></span></span></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<table style=\"margin-left: 2px;\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 3%;\">{!quote.CPQ_Quote_Terms_Accepted__c}</td>\r\n\t\t\t<td><span style=\"margin-top: 2px;\">I have read and accepted this agreement, including all Terms and Conditions at: <a href=\"https://hibu.com/legal/\" target=\"_blank\"> </a></span><a href=\"https://hibu.com/legal/\" target=\"_blank\">https://hibu.com/legal/</a></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&#160;</p>\r\n\r\n<p><strong>Authorized signature, individually and for the business you represent.</strong></p>\r\n\r\n<p style=\"margin-left: 2px;\">(Read paragraph 25(d) of our General Terms&#160;at:&#160;<a class=\"external-link\" href=\"https://hibu.com/legal/\" rel=\"nofollow\" style=\"color: rgb(0, 101, 255); font-family: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 14px; background-color: rgb(244, 245, 247);\" title=\"Follow link\">https://hibu.com/legal/</a>)</p>\r\n\r\n<p>&#160;</p>\r\n\r\n<p><span style=\"margin-left: 2px;\">Signature:</span><br />\r\n<img alt=\"Signature\" src=\"{!quote.CPQ_Signature_Data__c}\" /></p>\r\n\r\n<p style=\"margin-left: 2px;\">Print Signer&#39;s Name:</p>\r\n\r\n<p style=\"margin-left: 2px;\">{!quote.CPQ_Print_Name__c}</p>\r\n\r\n<p>&#160;</p>\r\n\r\n<p>&#160;Date: {!quote.CPQ_Signature_Date__c}</p>",
+  "SBQQ__TableStyle__c" : "Standard",
+  "SBQQ__Type__c" : "HTML",
+  "External_ID__c" : "b98b2eeb97e9212ae406b7806e14ad2c"
+}

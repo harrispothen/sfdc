@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateContent__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateContent__c/a4w5A000000aBYcQAM"
+  },
+  "Id" : "a4w5A000000aBYcQAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Line Items Custom Promotion Content",
+  "CreatedDate" : "2019-07-10T15:22:42.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:18:23.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:18:23.000+0000",
+  "SBQQ__CustomSource__c" : "https://hibu--stage--c.visualforce.com/apex/CPQ_QuoteTemplateLines?quoteTemplate=Proposal",
+  "SBQQ__FontFamily__c" : "Helvetica",
+  "SBQQ__FontSize__c" : 9.0,
+  "SBQQ__TableStyle__c" : "Standard",
+  "SBQQ__Type__c" : "Custom",
+  "External_ID__c" : "9b52ac8f335f62509c2fddc157677ef5"
+}
