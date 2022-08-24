@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4u5A000000TdsfQAC"
+  },
+  "Id" : "a4u5A000000TdsfQAC",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Sum of DUDA Website SKU's",
+  "CreatedDate" : "2020-01-11T00:11:53.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:29:19.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:29:19.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Sum",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "WBS-DT3OH-01-US,WBS-DT3SH-01-US,WBS-DT4OH-01-US,WBS-DT4SH-01-US,WBS-DT1O-01-US,WBS-DT2O-01-US,WBS-DT2S-01-US,WBS-DT3O-01-US,WBS-DT3S-01-US,WBS-DT4O-01-US,WBS-DT4S-01-US,WBS-DT5OH-01-US,WBS-DT5O-01-US,WBS-LAWSITE-01-US",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "06ce752eb8f706e4ea7d0ecad275ee56"
+}
