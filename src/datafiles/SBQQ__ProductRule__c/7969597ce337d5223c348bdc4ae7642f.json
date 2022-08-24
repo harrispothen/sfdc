@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000U5GJQA0"
+  },
+  "Id" : "a4c5A000000U5GJQA0",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Validation to Cancel Sitemaker Website and Child Lines",
+  "CreatedDate" : "2020-01-11T00:13:48.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:12.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "(1 AND 3 AND 5) OR (1 AND 2 AND 4) OR (2 AND 6 AND 7)",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "You need to cancel the existing Website and all associated child lines.",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "7969597ce337d5223c348bdc4ae7642f"
+}

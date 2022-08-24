@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf00000035RoZAAU"
+  },
+  "Id" : "a4cf00000035RoZAAU",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Pre Pub Quote Lines cannot be modified - Non Full Cancel Users",
+  "CreatedDate" : "2021-01-06T13:00:45.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:13.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "(1 AND 2 AND 3 AND 4) OR (1 AND 2 AND 5 AND 6) OR (1 AND 2 AND 7 AND 8) OR (1 AND 2 AND 9 AND 10)",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "You cannot modify Pre-Pub Budget Products that are still in Pending Status.",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "dc5f5c39279a037758239b198c137f61"
+}

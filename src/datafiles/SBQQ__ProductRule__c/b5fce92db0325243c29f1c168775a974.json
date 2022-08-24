@@ -1,0 +1,22 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf0000003UhycAAC"
+  },
+  "Id" : "a4cf0000003UhycAAC",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Premium Website Reinstate",
+  "CreatedDate" : "2021-03-04T18:31:20.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:41:18.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:41:18.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "Please made sure you have picked the correct matching child options that coincide with the reinstate Premium Website monthly investment value",
+  "SBQQ__EvaluationEvent__c" : "Save",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Alert",
+  "External_ID__c" : "b5fce92db0325243c29f1c168775a974"
+}

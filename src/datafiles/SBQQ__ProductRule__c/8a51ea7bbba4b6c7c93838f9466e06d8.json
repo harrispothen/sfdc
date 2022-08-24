@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf00000033DTXAA2"
+  },
+  "Id" : "a4cf00000033DTXAA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Multiple Reinstate Lines",
+  "CreatedDate" : "2020-09-16T12:53:59.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:13.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "(1 OR 2 OR 3) OR (4 AND 5 AND 8) OR (4 AND 6 AND 9) OR (4 AND 7 AND 10)",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "You are trying to Reinstate Multiple Like Performance Products, please review to insure this is correct.",
+  "SBQQ__EvaluationEvent__c" : "Save",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Alert",
+  "External_ID__c" : "8a51ea7bbba4b6c7c93838f9466e06d8"
+}

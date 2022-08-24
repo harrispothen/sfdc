@@ -1,0 +1,25 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf000000339kLAAQ"
+  },
+  "Id" : "a4cf000000339kLAAQ",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Solution Minimum Budget Validation",
+  "CreatedDate" : "2020-07-08T16:48:31.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:41:18.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:41:18.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__ErrorMessage__c" : "Please enter a budget amount equal to or greater than the budget minimum",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 800.0,
+  "SBQQ__LookupMessageField__c" : "SBQQ__Message__c",
+  "SBQQ__LookupObject__c" : "SBQQ__LookupData__c",
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "0c662a059665c53b68529355faf818bc"
+}

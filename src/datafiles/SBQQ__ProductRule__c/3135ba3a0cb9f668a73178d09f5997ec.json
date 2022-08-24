@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf00000033DTYAA2"
+  },
+  "Id" : "a4cf00000033DTYAA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Validation for Cancellation Credit",
+  "CreatedDate" : "2020-09-16T12:53:59.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:13.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "1 AND (2 AND 6) OR (3 AND 7) OR (4 AND 8) OR (5 AND 9)",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "Reminder:Cancellation Type 'Credit'(Immediate) allowed to be used for Budget-Based Performance products. When the Performance Product is being replaced by a like Performance Product and not being increased you need to select  Cancellation Type \"Customer\".",
+  "SBQQ__EvaluationEvent__c" : "Save",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Alert",
+  "External_ID__c" : "3135ba3a0cb9f668a73178d09f5997ec"
+}

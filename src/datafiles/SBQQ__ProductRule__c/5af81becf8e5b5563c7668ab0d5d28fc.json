@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000U5GGQA0"
+  },
+  "Id" : "a4c5A000000U5GGQA0",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Reputation dependency on Listing & Reviews Validation-1",
+  "CreatedDate" : "2020-01-11T00:13:48.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:12.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "((1 AND (2 AND (5 OR 6)) OR 3)) OR (1 AND 2 AND 7)",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "Reputation cannot be retained or purchased unless Listing and Reviews are also purchased.",
+  "SBQQ__EvaluationEvent__c" : "Save",
+  "SBQQ__EvaluationOrder__c" : 10.0,
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "5af81becf8e5b5563c7668ab0d5d28fc"
+}

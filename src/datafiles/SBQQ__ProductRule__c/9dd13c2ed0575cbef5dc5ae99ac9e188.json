@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf00000035SQUAA2"
+  },
+  "Id" : "a4cf00000035SQUAA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Hide RCF - RCF - Guaranteed Clicks",
+  "CreatedDate" : "2021-05-19T13:43:04.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T12:41:18.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T12:41:18.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "Any",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Selection",
+  "External_ID__c" : "9dd13c2ed0575cbef5dc5ae99ac9e188"
+}

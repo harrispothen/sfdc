@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf000000339jnAAA"
+  },
+  "Id" : "a4cf000000339jnAAA",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Hide Display Solution SUF's",
+  "CreatedDate" : "2020-07-08T12:40:19.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2020-07-11T03:16:35.000+0000",
+  "LastModifiedById" : "005i0000003S9sFAAS",
+  "SystemModstamp" : "2020-07-11T03:16:35.000+0000",
+  "SBQQ__Active__c" : false,
+  "SBQQ__ConditionsMet__c" : "Any",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Selection",
+  "External_ID__c" : "f6a3322f11d7c5d8387e75d59dbb432f"
+}

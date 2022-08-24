@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4c5A000000U5RiQAK"
+  },
+  "Id" : "a4c5A000000U5RiQAK",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Minimum Budget of Search Basic Products",
+  "CreatedDate" : "2020-02-07T23:51:37.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:12.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "(1 AND 2) OR (3 AND 4) OR (5 AND 6)",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__ErrorMessage__c" : "You cannot enter a Budget other than the Minimum Value listed for the Search Basic products.",
+  "SBQQ__EvaluationEvent__c" : "Save",
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Validation",
+  "External_ID__c" : "8483a32c18e77ff30bdf61f4ba1887ce"
+}

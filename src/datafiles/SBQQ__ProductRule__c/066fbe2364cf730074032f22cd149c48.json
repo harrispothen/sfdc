@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProductRule__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProductRule__c/a4cf000000339joAAA"
+  },
+  "Id" : "a4cf000000339joAAA",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Hide Smart Online Presence and Online Foundation Based Upon Dupe Response",
+  "CreatedDate" : "2020-07-08T12:40:19.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-09T14:52:12.000+0000",
+  "LastModifiedById" : "005i0000004afvgAAA",
+  "SystemModstamp" : "2022-08-09T14:52:13.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__AdvancedCondition__c" : "2 OR 3",
+  "SBQQ__ConditionsMet__c" : "Custom",
+  "SBQQ__EvaluationEvent__c" : "Always",
+  "SBQQ__EvaluationOrder__c" : 100.0,
+  "SBQQ__Scope__c" : "Product",
+  "SBQQ__Type__c" : "Selection",
+  "External_ID__c" : "066fbe2364cf730074032f22cd149c48"
+}
