@@ -17,11 +17,11 @@
   "SBQQ__BottomMargin__c" : 0.01,
   "SBQQ__ColumnHeaderHidden__c" : false,
   "SBQQ__Content__c" : "a4w5A000000aBYYQA2",
-  "SBQQ__DisplayOrder__c" : 57,
+  "SBQQ__DisplayOrder__c" : 57.0,
   "SBQQ__KeepTogether__c" : "Always",
   "SBQQ__KeepWithNext__c" : "Auto",
   "SBQQ__KeepWithPrevious__c" : "Always",
   "SBQQ__QuoteTotalsPrinted__c" : false,
-  "SBQQ__TopMargin__c" : 0.00,
+  "SBQQ__TopMargin__c" : 0.0,
   "External_ID__c" : "009d403a45a0c7abc988960c78b0053d"
 }
