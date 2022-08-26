@@ -1,0 +1,22 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateContent__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateContent__c/a4w5A000000aBYbQAM"
+  },
+  "Id" : "a4w5A000000aBYbQAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Line Items Header",
+  "CreatedDate" : "2019-07-10T15:22:42.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:18:23.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:18:23.000+0000",
+  "LastViewedDate" : "2022-08-24T17:37:23.000+0000",
+  "LastReferencedDate" : "2022-08-24T17:37:23.000+0000",
+  "SBQQ__FontSize__c" : 10.0,
+  "SBQQ__RawMarkup__c" : "<table width=\"100%\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 50%;\">&#160;</td>\r\n\t\t\t<td align=\"right\" style=\"width: 50%;\">{!companyLogo}</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width: 50%; background-color: #143854;color: #FFFFFF; padding-left:10px;\">\r\n\t\t\t<p>&#160;</p>\r\n\r\n\t\t\t<p><span style=\"font-family:arial,sans-serif;\"><span style=\"font-size: 12px;\"><strong>{!quote.cpq_Account_Name__c}</strong></span></span></p>\r\n\r\n\t\t\t<p><span style=\"font-family:arial,sans-serif;\">{!quote.SBQQ__BillingStreet__c}</span></p>\r\n\r\n\t\t\t<p><span style=\"font-family:arial,sans-serif;\">{!quote.SBQQ__BillingCity__c} {!quote.SBQQ__BillingState__c} {!quote.SBQQ__BillingCountry__c} {!quote.SBQQ__BillingPostalCode__c}</span></p>\r\n\r\n\t\t\t<p><span style=\"font-family:arial,sans-serif;\">{!quote.cpq_Account_Phone__c}</span></p>\r\n\r\n\t\t\t<p>&#160;</p>\r\n\r\n\t\t\t<p><span style=\"font-family:arial,sans-serif;\">Account #:{!quote.cpq_Account_Number__c}</span></p>\r\n\r\n\t\t\t<p><span style=\"font-family:arial,sans-serif;\">Order#: {!quote.Name}</span></p>\r\n\r\n\t\t\t<p><span style=\"font-family:arial,sans-serif;\">Order Date: {!quote.CPQ_Contract_Signature_Date__c}</span></p>\r\n\r\n\t\t\t<p>&#160;</p>\r\n\r\n\t\t\t<p><span style=\"font-family:arial,sans-serif;\">{!primaryContact.Email}</span></p>\r\n\r\n\t\t\t<p><span style=\"font-family:arial,sans-serif;\">Rep: {!salesRep.Name}</span></p>\r\n\r\n\t\t\t<p>&#160;</p>\r\n\t\t\t</td>\r\n\t\t\t<td style=\"width: 50%; padding-left:10px;\">\r\n\t\t\t<p>&#160;</p>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&#160;</p>",
+  "SBQQ__TableStyle__c" : "Standard",
+  "SBQQ__Type__c" : "HTML",
+  "External_ID__c" : "b5e757aafa5679af771711bf6b34efb2"
+}

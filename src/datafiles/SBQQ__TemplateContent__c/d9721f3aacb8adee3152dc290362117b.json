@@ -1,0 +1,20 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateContent__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateContent__c/a4w5A000000aBYQQA2"
+  },
+  "Id" : "a4w5A000000aBYQQA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Footer Content",
+  "CreatedDate" : "2019-07-10T15:22:42.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:18:23.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:18:23.000+0000",
+  "SBQQ__FontSize__c" : 10.0,
+  "SBQQ__RawMarkup__c" : "<p>&#160;</p>\n\n<p style=\"width:100%; margin-top: 170px; margin-bottom: 5px; border-bottom: 2px solid #CCCCCC;\">&#160;</p>\n\n<p>&#34;We&#34;, &#34;our&#34;, &#34;us&#34; and &#34;Hibu&#34; refers to Hibu Inc., a Delaware corporation with office at 2201 Renaissance Boulevard, King of Prussia, Pennsylvania 19406.</p>\n\n<p>&#169; 2018 Hibu Inc. All rights reserved. Hibu and the Hibu logo are trademarks of Hibu Group.</p>",
+  "SBQQ__TableStyle__c" : "Standard",
+  "SBQQ__Type__c" : "HTML",
+  "External_ID__c" : "d9721f3aacb8adee3152dc290362117b"
+}

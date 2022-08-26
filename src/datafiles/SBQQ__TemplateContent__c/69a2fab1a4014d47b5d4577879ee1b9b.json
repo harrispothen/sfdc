@@ -1,0 +1,20 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateContent__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateContent__c/a4w5A000000aBYRQA2"
+  },
+  "Id" : "a4w5A000000aBYRQA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Voice Verified Content",
+  "CreatedDate" : "2019-07-10T15:22:42.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:18:23.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:18:23.000+0000",
+  "SBQQ__FontSize__c" : 10.0,
+  "SBQQ__RawMarkup__c" : "<table border=\"0\" style=\"width:100%; margin-top: 10px; margin-bottom: 10px;\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"width:100%;padding-left:2px;padding-bottom:2px;padding-top:2px;background-color:#143854;\"><span style=\"color:#ffffff;\"><span style=\"font-size:10px;\"><strong>Confirmation</strong></span></span></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>Voice Verified</p>\r\n\r\n<p>Recording on file</p>",
+  "SBQQ__TableStyle__c" : "Standard",
+  "SBQQ__Type__c" : "HTML",
+  "External_ID__c" : "69a2fab1a4014d47b5d4577879ee1b9b"
+}

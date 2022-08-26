@@ -1,0 +1,20 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__TemplateContent__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__TemplateContent__c/a4wf00000049NeyAAE"
+  },
+  "Id" : "a4wf00000049NeyAAE",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Cover Page",
+  "CreatedDate" : "2020-10-14T15:39:18.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-05-18T13:18:23.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-05-18T13:18:23.000+0000",
+  "LastViewedDate" : "2022-08-24T18:33:36.000+0000",
+  "LastReferencedDate" : "2022-08-24T18:33:36.000+0000",
+  "SBQQ__TableStyle__c" : "Standard",
+  "SBQQ__Type__c" : "HTML",
+  "External_ID__c" : "1fd7da32e60f7a6cd6208be33c046a16"
+}
