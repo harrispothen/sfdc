@@ -1,0 +1,25 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SummaryVariable__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SummaryVariable__c/a4u5A000000iOOeQAM"
+  },
+  "Id" : "a4u5A000000iOOeQAM",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Count of Pro Website",
+  "CreatedDate" : "2019-07-10T13:42:32.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-08-30T16:17:05.000+0000",
+  "LastModifiedById" : "005i0000003UBNoAAO",
+  "SystemModstamp" : "2022-08-30T16:17:05.000+0000",
+  "LastViewedDate" : "2022-08-30T16:17:07.000+0000",
+  "LastReferencedDate" : "2022-08-30T16:17:07.000+0000",
+  "SBQQ__AggregateField__c" : "Quantity",
+  "SBQQ__AggregateFunction__c" : "Count",
+  "SBQQ__FilterField__c" : "Product Code",
+  "SBQQ__FilterValue__c" : "WBS-PRO-01,WBS-PROPKG-01,WBS-PROSPD-01,WBS-PROSPD-02",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__Scope__c" : "Quote",
+  "SBQQ__TargetObject__c" : "Quote Line",
+  "External_ID__c" : "d2afcf93947253fc9a1ca18dc9e74e11"
+}
