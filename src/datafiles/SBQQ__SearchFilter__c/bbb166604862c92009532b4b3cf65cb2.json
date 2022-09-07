@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SearchFilter__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SearchFilter__c/a4o5A0000002OsvQAE"
+  },
+  "Id" : "a4o5A0000002OsvQAE",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Solution Packages",
+  "CreatedDate" : "2019-07-10T15:44:41.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:04:48.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:04:48.000+0000",
+  "SBQQ__DisplayOrder__c" : 4.0,
+  "SBQQ__Hidden__c" : false,
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__TargetField__c" : "CPQ_Product_Packages__c",
+  "SBQQ__TargetObject__c" : "Product",
+  "External_ID__c" : "bbb166604862c92009532b4b3cf65cb2"
+}

@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SearchFilter__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SearchFilter__c/a4o5A0000002OsuQAE"
+  },
+  "Id" : "a4o5A0000002OsuQAE",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Product Family",
+  "CreatedDate" : "2019-07-10T15:44:41.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:04:48.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:04:48.000+0000",
+  "SBQQ__DisplayOrder__c" : 2.0,
+  "SBQQ__Hidden__c" : false,
+  "SBQQ__Operator__c" : "contains",
+  "SBQQ__TargetField__c" : "Product_Family__c",
+  "SBQQ__TargetObject__c" : "Product",
+  "External_ID__c" : "3eba7ec1fc89a524aeab0968cd52f4e3"
+}

@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__SearchFilter__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__SearchFilter__c/a4o5A0000002OsqQAE"
+  },
+  "Id" : "a4o5A0000002OsqQAE",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Yext Category",
+  "CreatedDate" : "2019-07-10T15:44:41.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:04:48.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:04:48.000+0000",
+  "SBQQ__DisplayOrder__c" : 3.0,
+  "SBQQ__FilterSourceField__c" : "CPQ_Listing_Category__c",
+  "SBQQ__FilterSourceObject__c" : "Quote",
+  "SBQQ__Hidden__c" : true,
+  "SBQQ__Operator__c" : "contains",
+  "SBQQ__TargetField__c" : "CPQ_Listing_Category__c",
+  "SBQQ__TargetObject__c" : "Product",
+  "External_ID__c" : "744ddabd26205930e7589cc90828bc40"
+}
