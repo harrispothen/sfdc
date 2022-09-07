@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupData__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupData__c/a4M5A000000Pzq5UAC"
+  },
+  "Id" : "a4M5A000000Pzq5UAC",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "DATA-0770",
+  "CreatedDate" : "2019-12-14T02:44:00.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:25:30.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:25:30.000+0000",
+  "SBQQ__Message__c" : "Please enter a budget amount equal to or greater than the budget minimum",
+  "SBQQ__Required__c" : false,
+  "CPQ_Product_Option_Code__c" : "SPSSES",
+  "CPQ_Lower_Bound__c" : 250.0,
+  "CPQ_Today__c" : "2022-09-07",
+  "External_ID__c" : "7080dbec6eba88286d40b9e050833c74"
+}
