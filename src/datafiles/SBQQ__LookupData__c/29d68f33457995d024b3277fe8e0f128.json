@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupData__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupData__c/a4M5A000000Pzx4UAC"
+  },
+  "Id" : "a4M5A000000Pzx4UAC",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "DATA-0863",
+  "CreatedDate" : "2020-02-08T00:23:58.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:25:30.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:25:30.000+0000",
+  "SBQQ__Message__c" : "Please enter a budget amount equal to or greater than the budget minimum",
+  "SBQQ__Required__c" : false,
+  "CPQ_Product_Option_Code__c" : "SMARTSYNCSML-SOC",
+  "CPQ_Lower_Bound__c" : 250.0,
+  "CPQ_Today__c" : "2022-09-07",
+  "External_ID__c" : "29d68f33457995d024b3277fe8e0f128"
+}
