@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProcessInput__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProcessInput__c/a4W5A0000000KxHUAU"
+  },
+  "Id" : "a4W5A0000000KxHUAU",
+  "IsDeleted" : false,
+  "Name" : "Silktide data >85",
+  "CreatedDate" : "2019-07-10T14:52:25.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:01:15.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:01:15.000+0000",
+  "SBQQ__QuoteProcess__c" : "a4g5A000000psRzQAI",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__DisplayOrder__c" : 4.0,
+  "SBQQ__InputField__c" : "CPQ_Gaining_assistance__c",
+  "SBQQ__Label__c" : "While this is a strong score, managing these listings can be tedious and time consuming.  Is gaining assistance with listings maintenance a priority for this client?",
+  "SBQQ__Operator__c" : "contains",
+  "SBQQ__ProductField__c" : "CPQ_Gaining_assistance__c",
+  "External_ID__c" : "1249d9c276128c0f1ed34a8a2b4a0cd4"
+}

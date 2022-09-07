@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProcessInput__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProcessInput__c/a4W5A0000000KxMUAU"
+  },
+  "Id" : "a4W5A0000000KxMUAU",
+  "IsDeleted" : false,
+  "Name" : "Driving Traffic Priority For Client",
+  "CreatedDate" : "2019-07-10T14:52:25.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:01:15.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:01:15.000+0000",
+  "SBQQ__QuoteProcess__c" : "a4g5A000000psRzQAI",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__DisplayOrder__c" : 8.0,
+  "SBQQ__InputField__c" : "CPQ_Driving_Traffic_Priority_For_Client__c",
+  "SBQQ__Label__c" : "In addition to having a strong presence online, it's important to continually generate new clients while working to sustain existing clients.  Is this a priority for the client?",
+  "SBQQ__Operator__c" : "contains",
+  "SBQQ__ProductField__c" : "CPQ_Driving_Traffic_Priority_For_Client__c",
+  "External_ID__c" : "e0980dae505b1e5d62d6918427dabad7"
+}

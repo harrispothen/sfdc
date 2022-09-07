@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProcessInput__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProcessInput__c/a4W5A0000000KxFUAU"
+  },
+  "Id" : "a4W5A0000000KxFUAU",
+  "IsDeleted" : false,
+  "Name" : "Client needs a new website",
+  "CreatedDate" : "2019-07-10T14:52:25.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:01:15.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:01:15.000+0000",
+  "SBQQ__QuoteProcess__c" : "a4g5A000000psRzQAI",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__DisplayOrder__c" : 7.0,
+  "SBQQ__InputField__c" : "CPQ_Client_needs_new_website__c",
+  "SBQQ__Label__c" : "Based on the website analysis portion of the Silktide report, your own observation, and the client's perception of their site, does the client need a new website?",
+  "SBQQ__Operator__c" : "contains",
+  "SBQQ__ProductField__c" : "CPQ_Client_needs_new_website__c",
+  "External_ID__c" : "2ec03b52cc17fee701ff455ab6e3b989"
+}

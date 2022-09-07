@@ -1,0 +1,22 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProcessInput__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProcessInput__c/a4W5A0000000KxJUAU"
+  },
+  "Id" : "a4W5A0000000KxJUAU",
+  "IsDeleted" : false,
+  "Name" : "Silktide data",
+  "CreatedDate" : "2019-07-10T14:52:25.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:01:15.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:01:15.000+0000",
+  "SBQQ__QuoteProcess__c" : "a4g5A000000psRzQAI",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__DefaultField__c" : "CPQ_Inconsistent_Listings__c",
+  "SBQQ__DisplayOrder__c" : 1.0,
+  "SBQQ__InputField__c" : "CPQ_Inconsistent_Listings__c",
+  "SBQQ__Label__c" : "According to our analysis, this business's current listings score is ____. Silktide data(Do Not Edit)",
+  "External_ID__c" : "a6f4c589d6c24a5635f9de5ed3cdb118"
+}

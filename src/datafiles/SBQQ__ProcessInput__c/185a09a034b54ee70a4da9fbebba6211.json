@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProcessInput__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProcessInput__c/a4W5A0000000KxNUAU"
+  },
+  "Id" : "a4W5A0000000KxNUAU",
+  "IsDeleted" : false,
+  "Name" : "Silktide data <85",
+  "CreatedDate" : "2019-07-10T14:52:25.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:01:15.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:01:15.000+0000",
+  "SBQQ__QuoteProcess__c" : "a4g5A000000psRzQAI",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__DisplayOrder__c" : 3.0,
+  "SBQQ__InputField__c" : "CPQ_Digital_presence_and_priority__c",
+  "SBQQ__Label__c" : "Having accurate listings, reviews, and solid reputation is the foundation of digital marketing.  Is enhancing their digital presence and priority for this client?",
+  "SBQQ__Operator__c" : "contains",
+  "SBQQ__ProductField__c" : "CPQ_Digital_presence_and_priority__c",
+  "External_ID__c" : "185a09a034b54ee70a4da9fbebba6211"
+}

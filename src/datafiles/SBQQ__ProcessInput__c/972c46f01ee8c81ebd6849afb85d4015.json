@@ -1,0 +1,23 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProcessInput__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProcessInput__c/a4W5A0000000KxEUAU"
+  },
+  "Id" : "a4W5A0000000KxEUAU",
+  "IsDeleted" : false,
+  "Name" : "No Silktide data",
+  "CreatedDate" : "2019-07-10T14:52:25.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:01:15.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:01:15.000+0000",
+  "SBQQ__QuoteProcess__c" : "a4g5A000000psRzQAI",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__DisplayOrder__c" : 2.0,
+  "SBQQ__InputField__c" : "CPQ_Business_Information_Correct_Online__c",
+  "SBQQ__Label__c" : "Does your client realize the importance of making sure their business information is correct online, and feel that they need help?",
+  "SBQQ__Operator__c" : "contains",
+  "SBQQ__ProductField__c" : "CPQ_Business_Information_Correct_Online__c",
+  "External_ID__c" : "972c46f01ee8c81ebd6849afb85d4015"
+}

@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__ProcessInput__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__ProcessInput__c/a4W5A0000000KxGUAU"
+  },
+  "Id" : "a4W5A0000000KxGUAU",
+  "IsDeleted" : false,
+  "Name" : "How long digital marketing?",
+  "CreatedDate" : "2019-07-10T14:52:25.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:01:15.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:01:15.000+0000",
+  "SBQQ__QuoteProcess__c" : "a4g5A000000psRzQAI",
+  "SBQQ__Active__c" : true,
+  "SBQQ__ConditionsMet__c" : "Any",
+  "SBQQ__DisplayOrder__c" : 10.0,
+  "SBQQ__InputField__c" : "CPQ_How_long_digital_marketing__c",
+  "SBQQ__Label__c" : "How long has your client been thinking about digital marketing?",
+  "External_ID__c" : "d8db8bf3aafd3886228621ba007e1e3f"
+}
