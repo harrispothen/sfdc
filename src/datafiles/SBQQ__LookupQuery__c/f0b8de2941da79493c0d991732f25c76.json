@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupQuery__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupQuery__c/a4N5A000000yENKUA2"
+  },
+  "Id" : "a4N5A000000yENKUA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "260",
+  "CreatedDate" : "2020-03-07T00:06:39.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:01:38.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:01:38.000+0000",
+  "SBQQ__LookupField__c" : "CPQ_Start_Date__c",
+  "SBQQ__MatchType__c" : "Field Value",
+  "SBQQ__Operator__c" : "greater than",
+  "SBQQ__ParentRuleIsActive__c" : false,
+  "SBQQ__RuleTargetsCalculator__c" : false,
+  "SBQQ__TestedField__c" : "CPQ_Today__c",
+  "SBQQ__TestedObject__c" : "Quote",
+  "External_ID__c" : "f0b8de2941da79493c0d991732f25c76",
+  "Active__c" : true
+}

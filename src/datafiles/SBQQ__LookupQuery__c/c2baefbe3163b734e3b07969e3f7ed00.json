@@ -1,0 +1,24 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupQuery__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupQuery__c/a4N5A0000009kdfUAA"
+  },
+  "Id" : "a4N5A0000009kdfUAA",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "247",
+  "CreatedDate" : "2019-07-10T14:39:35.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2021-04-21T17:20:47.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2021-04-21T17:20:47.000+0000",
+  "SBQQ__LookupField__c" : "CPQ_Campaign__c",
+  "SBQQ__MatchType__c" : "Field Value",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__ParentRuleIsActive__c" : false,
+  "SBQQ__RuleTargetsCalculator__c" : false,
+  "SBQQ__TestedField__c" : "CPQ_Campaign__c",
+  "SBQQ__TestedObject__c" : "Quote",
+  "External_ID__c" : "c2baefbe3163b734e3b07969e3f7ed00",
+  "Active__c" : false
+}
