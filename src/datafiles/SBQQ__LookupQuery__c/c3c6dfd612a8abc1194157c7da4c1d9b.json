@@ -1,0 +1,26 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupQuery__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupQuery__c/a4N5A0000009kbzUAA"
+  },
+  "Id" : "a4N5A0000009kbzUAA",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "143",
+  "CreatedDate" : "2019-07-10T14:39:34.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2021-04-21T17:20:47.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2021-04-21T17:20:47.000+0000",
+  "SBQQ__LookupField__c" : "CPQ_Discount_End_Date__c",
+  "SBQQ__MatchType__c" : "Field Value",
+  "SBQQ__Operator__c" : "less than",
+  "SBQQ__ParentRuleIsActive__c" : false,
+  "SBQQ__PriceRule2__c" : "a4R5A0000009qdWUAQ",
+  "SBQQ__RuleLookupObject__c" : "CPQ_Campaign_Discounts__c",
+  "SBQQ__RuleTargetsCalculator__c" : true,
+  "SBQQ__TestedField__c" : "CPQ_Today__c",
+  "SBQQ__TestedObject__c" : "Quote",
+  "External_ID__c" : "c3c6dfd612a8abc1194157c7da4c1d9b",
+  "Active__c" : false
+}
