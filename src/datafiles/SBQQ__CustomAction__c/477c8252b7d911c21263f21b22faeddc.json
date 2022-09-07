@@ -1,0 +1,26 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__CustomAction__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__CustomAction__c/a425A000001nYuUQAU"
+  },
+  "Id" : "a425A000001nYuUQAU",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Separator",
+  "CreatedDate" : "2019-07-10T15:43:13.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:03:56.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:03:56.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__BrandButton__c" : false,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__Default__c" : false,
+  "SBQQ__DisplayOrder__c" : 911.0,
+  "SBQQ__IconClass__c" : "sbToolSeparator",
+  "SBQQ__Label__c" : "Add Products",
+  "SBQQ__Location__c" : "Quote",
+  "SBQQ__Page__c" : "Quote Line Editor",
+  "SBQQ__Type__c" : "Separator",
+  "External_ID__c" : "477c8252b7d911c21263f21b22faeddc"
+}
