@@ -1,0 +1,27 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__CustomAction__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__CustomAction__c/a425A000001nYuXQAU"
+  },
+  "Id" : "a425A000001nYuXQAU",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Launch External",
+  "CreatedDate" : "2019-07-10T15:43:13.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:03:56.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:03:56.000+0000",
+  "SBQQ__Active__c" : true,
+  "SBQQ__BrandButton__c" : false,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__Default__c" : false,
+  "SBQQ__DisplayOrder__c" : 900.0,
+  "SBQQ__Label__c" : "Launch External",
+  "SBQQ__Location__c" : "Configurator",
+  "SBQQ__Page__c" : "Product Configurator",
+  "SBQQ__Type__c" : "Button",
+  "SBQQ__URLTarget__c" : "Popup",
+  "SBQQ__URL__c" : "{!$Setup.GeneralSettings__c.ExternalConfigurationURL__c}",
+  "External_ID__c" : "5e64ad4b7df5600c72bde6afd9781b4e"
+}

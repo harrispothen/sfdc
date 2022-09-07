@@ -1,0 +1,26 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__CustomAction__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__CustomAction__c/a425A000001qmMZQAY"
+  },
+  "Id" : "a425A000001qmMZQAY",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "Apply Edit Rules",
+  "CreatedDate" : "2020-01-11T00:39:21.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:03:56.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:03:56.000+0000",
+  "SBQQ__Action__c" : "Apply Edit Rules",
+  "SBQQ__Active__c" : true,
+  "SBQQ__BrandButton__c" : false,
+  "SBQQ__ConditionsMet__c" : "All",
+  "SBQQ__Default__c" : false,
+  "SBQQ__DisplayOrder__c" : 901.0,
+  "SBQQ__Label__c" : "Apply Rules",
+  "SBQQ__Location__c" : "Configurator",
+  "SBQQ__Page__c" : "Product Configurator",
+  "SBQQ__Type__c" : "Button",
+  "External_ID__c" : "e43dc2d67b497372cb7cd37c33a2dc25"
+}
