@@ -1,0 +1,19 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupData__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupData__c/a4M5A000000PzwzUAC"
+  },
+  "Id" : "a4M5A000000PzwzUAC",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "DATA-0858",
+  "CreatedDate" : "2020-02-08T00:23:58.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:25:30.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:25:30.000+0000",
+  "SBQQ__Category__c" : "WBS-DBDSPO-01-US",
+  "SBQQ__Required__c" : false,
+  "CPQ_Today__c" : "2022-09-07",
+  "External_ID__c" : "70f2927c391021f7b41c04c5da79c2de"
+}
