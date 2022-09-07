@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupData__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupData__c/a4Mf00000006QWZEA2"
+  },
+  "Id" : "a4Mf00000006QWZEA2",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "DATA-0912",
+  "CreatedDate" : "2022-08-09T15:07:55.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:25:30.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:25:30.000+0000",
+  "SBQQ__Message__c" : "Please enter a Search Budget amount equal to or greater than the Budget Minimum and less than the Maximum Budget",
+  "SBQQ__Required__c" : false,
+  "CPQ_Product_Option_Code__c" : "SYNCMKTXXL-SCH",
+  "CPQ_Lower_Bound__c" : 3600.0,
+  "CPQ_Today__c" : "2022-09-07",
+  "External_ID__c" : "eb3f59237bd7cf20714da93a7e554529"
+}
