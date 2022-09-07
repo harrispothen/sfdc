@@ -1,0 +1,20 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupData__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupData__c/a4M5A000000PzqDUAS"
+  },
+  "Id" : "a4M5A000000PzqDUAS",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "DATA-0778",
+  "CreatedDate" : "2019-12-14T02:44:00.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:25:30.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:25:30.000+0000",
+  "SBQQ__Category__c" : "WBS-DSCHA-01",
+  "SBQQ__Required__c" : false,
+  "CPQ_Product_Option_Code__c" : "WBS-DSCHA-01",
+  "CPQ_Today__c" : "2022-09-07",
+  "External_ID__c" : "27832d2449f644c8295a944acbdfc15c"
+}

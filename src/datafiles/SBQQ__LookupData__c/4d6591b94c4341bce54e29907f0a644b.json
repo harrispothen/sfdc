@@ -1,0 +1,21 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupData__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupData__c/a4M5A000000PzqLUAS"
+  },
+  "Id" : "a4M5A000000PzqLUAS",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "DATA-0786",
+  "CreatedDate" : "2019-12-14T02:44:00.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:25:30.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:25:30.000+0000",
+  "SBQQ__Category__c" : "DSP-DSPPKG-01",
+  "SBQQ__Required__c" : false,
+  "SBQQ__Value__c" : "12",
+  "CPQ_Lower_Bound__c" : 0.0,
+  "CPQ_Today__c" : "2022-09-07",
+  "External_ID__c" : "4d6591b94c4341bce54e29907f0a644b"
+}
