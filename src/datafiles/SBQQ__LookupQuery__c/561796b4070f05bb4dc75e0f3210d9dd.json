@@ -1,0 +1,25 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupQuery__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupQuery__c/a4Nf0000000H5SeEAK"
+  },
+  "Id" : "a4Nf0000000H5SeEAK",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "267",
+  "CreatedDate" : "2020-07-11T02:45:19.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:01:38.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:01:38.000+0000",
+  "SBQQ__LookupField__c" : "CPQ_Product_Option_Code__c",
+  "SBQQ__MatchType__c" : "Field Value",
+  "SBQQ__Operator__c" : "equals",
+  "SBQQ__ParentRuleIsActive__c" : true,
+  "SBQQ__ProductRule__c" : "a4cf000000339kLAAQ",
+  "SBQQ__RuleTargetsCalculator__c" : false,
+  "SBQQ__TestedField__c" : "CPQ_Product_Option_Code__c",
+  "SBQQ__TestedObject__c" : "Product Option",
+  "External_ID__c" : "561796b4070f05bb4dc75e0f3210d9dd",
+  "Active__c" : true
+}
