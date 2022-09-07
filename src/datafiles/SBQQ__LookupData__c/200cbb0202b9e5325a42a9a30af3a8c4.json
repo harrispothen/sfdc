@@ -1,0 +1,20 @@
+{
+  "attributes" : {
+    "type" : "SBQQ__LookupData__c",
+    "url" : "/services/data/v55.0/sobjects/SBQQ__LookupData__c/a4M5A000000PzqoUAC"
+  },
+  "Id" : "a4M5A000000PzqoUAC",
+  "OwnerId" : "005i0000005JKILAA4",
+  "IsDeleted" : false,
+  "Name" : "DATA-0815",
+  "CreatedDate" : "2019-12-14T02:44:00.000+0000",
+  "CreatedById" : "005i0000005JKILAA4",
+  "LastModifiedDate" : "2022-09-06T15:25:30.000+0000",
+  "LastModifiedById" : "005i0000005JKILAA4",
+  "SystemModstamp" : "2022-09-06T15:25:30.000+0000",
+  "SBQQ__Message__c" : "Please enter a budget amount equal to or greater than the budget minimum",
+  "SBQQ__Required__c" : false,
+  "CPQ_Product_Option_Code__c" : "RPFO",
+  "CPQ_Today__c" : "2022-09-07",
+  "External_ID__c" : "200cbb0202b9e5325a42a9a30af3a8c4"
+}
